@@ -1,2 +1,2 @@
 # nanov2map
-NanoVNA-V2 menu map
+おじさん工房様のNanoVNA-V2　（S-A-A-2）用ファームウエア（２０２０１００４）のメニューをエクセルでまとめたものです。
